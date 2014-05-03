@@ -1,0 +1,26 @@
+{
+  "name": "testApp",
+  "version": "0.0.1",
+  "description": "Test Node on Heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://petabyte@github.com/petabyte/testApp.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "George Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petabyte/testApp/issues"
+  },
+  "homepage": "https://github.com/petabyte/testApp",
+  "dependencies": {
+    "express": "^4.1.1",
+    "logfmt": "^1.1.2"
+  }
+}
